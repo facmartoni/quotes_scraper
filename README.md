@@ -1,2 +1,2 @@
-# quotes_scraper
+# Quotes Scraper
 Part of Curso de Scrapy 🕷
